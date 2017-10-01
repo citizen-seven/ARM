@@ -18,7 +18,7 @@ def write_msg(user_id, s):
 
 msgs = [u'Привет! Я редко бываю онлайн. Для связи по срочным вопросам можешь написать в телеграм t.me/eltsin или на почту iskhakov.ra@phystech.edu',
         u'Спасибо за сообщение! Я обязательно прочту его в ближайшее время. Если вопрос срочный, напиши в телеграм t.me/eltsin или отправь e-mail: iskhakov.ra@phystech.edu',
-        'Hi! I`m offline now. In case of urgent messages, please, use Telegram (t.me/eltsin) or e-mail me at iskhakov.ra@physetch.edu']
+        'Hi! I`m offline now. In case of urgent messages, please, use Telegram (t.me/eltsin) or e-mail me at iskhakov.ra@phystech.edu']
 repeats = [u'Если срочно, смотри предыдущее сообщение.',
          u'Это бот и любые попытки тщетны. Он еще маленький и только учится разговаривать с людьми :)',
          u'Обычно Ришат заходит по вечерам, подожди чуток.',
